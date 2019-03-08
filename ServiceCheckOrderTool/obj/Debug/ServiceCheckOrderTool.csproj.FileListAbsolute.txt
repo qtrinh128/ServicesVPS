@@ -1,0 +1,9 @@
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\bin\Debug\ServiceCheckOrderTool.exe.config
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\bin\Debug\ServiceCheckOrderTool.exe
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\bin\Debug\ServiceCheckOrderTool.pdb
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\obj\Debug\ServiceCheckOrderTool.csprojAssemblyReference.cache
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\obj\Debug\ServiceCheckOrderTool.ProjectInstaller.resources
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\obj\Debug\ServiceCheckOrderTool.csproj.GenerateResource.cache
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\obj\Debug\ServiceCheckOrderTool.csproj.CoreCompileInputs.cache
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\obj\Debug\ServiceCheckOrderTool.exe
+C:\Users\qtrin\source\repos\ServiceCheckOrderTool\ServiceCheckOrderTool\obj\Debug\ServiceCheckOrderTool.pdb
